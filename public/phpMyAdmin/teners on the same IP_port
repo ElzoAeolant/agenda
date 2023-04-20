@@ -1,0 +1,1511 @@
+-- Logs begin at Wed 2021-02-24 23:13:28 UTC, end at Thu 2021-02-25 01:36:01 UTC. --
+Feb 25 00:39:33 ip-172-31-90-243.ec2.internal sudo[31366]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:33 ip-172-31-90-243.ec2.internal sudo[31368]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:33 ip-172-31-90-243.ec2.internal sudo[31370]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:33 ip-172-31-90-243.ec2.internal sudo[31372]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:33 ip-172-31-90-243.ec2.internal sudo[31374]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:33 ip-172-31-90-243.ec2.internal sudo[31376]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:33 ip-172-31-90-243.ec2.internal sudo[31378]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:33 ip-172-31-90-243.ec2.internal sudo[31380]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:33 ip-172-31-90-243.ec2.internal sudo[31382]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:33 ip-172-31-90-243.ec2.internal sudo[31384]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:33 ip-172-31-90-243.ec2.internal sudo[31386]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:33 ip-172-31-90-243.ec2.internal sudo[31388]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:33 ip-172-31-90-243.ec2.internal sudo[31390]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:33 ip-172-31-90-243.ec2.internal sudo[31392]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:33 ip-172-31-90-243.ec2.internal sudo[31394]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:33 ip-172-31-90-243.ec2.internal sudo[31396]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:33 ip-172-31-90-243.ec2.internal sudo[31398]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:33 ip-172-31-90-243.ec2.internal sudo[31400]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:33 ip-172-31-90-243.ec2.internal sudo[31402]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:33 ip-172-31-90-243.ec2.internal sudo[31404]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:33 ip-172-31-90-243.ec2.internal sudo[31406]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:33 ip-172-31-90-243.ec2.internal sudo[31408]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:33 ip-172-31-90-243.ec2.internal sudo[31410]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:33 ip-172-31-90-243.ec2.internal sudo[31412]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:33 ip-172-31-90-243.ec2.internal sudo[31414]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:33 ip-172-31-90-243.ec2.internal sudo[31416]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:33 ip-172-31-90-243.ec2.internal sudo[31418]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:33 ip-172-31-90-243.ec2.internal sudo[31420]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:33 ip-172-31-90-243.ec2.internal sudo[31422]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:33 ip-172-31-90-243.ec2.internal sudo[31424]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:33 ip-172-31-90-243.ec2.internal sudo[31426]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:33 ip-172-31-90-243.ec2.internal sudo[31428]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:33 ip-172-31-90-243.ec2.internal sudo[31430]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:33 ip-172-31-90-243.ec2.internal sudo[31432]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:33 ip-172-31-90-243.ec2.internal sudo[31434]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:33 ip-172-31-90-243.ec2.internal sudo[31436]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:33 ip-172-31-90-243.ec2.internal sudo[31438]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:33 ip-172-31-90-243.ec2.internal sudo[31440]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:33 ip-172-31-90-243.ec2.internal sudo[31442]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:33 ip-172-31-90-243.ec2.internal sudo[31444]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:33 ip-172-31-90-243.ec2.internal sudo[31446]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:33 ip-172-31-90-243.ec2.internal sudo[31448]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:33 ip-172-31-90-243.ec2.internal sudo[31450]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:33 ip-172-31-90-243.ec2.internal sudo[31452]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:33 ip-172-31-90-243.ec2.internal sudo[31454]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:33 ip-172-31-90-243.ec2.internal sudo[31456]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:33 ip-172-31-90-243.ec2.internal sudo[31460]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:33 ip-172-31-90-243.ec2.internal sudo[31462]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:33 ip-172-31-90-243.ec2.internal sudo[31464]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:33 ip-172-31-90-243.ec2.internal sudo[31466]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:33 ip-172-31-90-243.ec2.internal sudo[31468]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:33 ip-172-31-90-243.ec2.internal sudo[31470]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:33 ip-172-31-90-243.ec2.internal sudo[31472]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:33 ip-172-31-90-243.ec2.internal sudo[31474]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:33 ip-172-31-90-243.ec2.internal sudo[31476]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:33 ip-172-31-90-243.ec2.internal sudo[31478]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:33 ip-172-31-90-243.ec2.internal sudo[31480]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:33 ip-172-31-90-243.ec2.internal sudo[31482]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:33 ip-172-31-90-243.ec2.internal sudo[31484]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31486]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31488]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31490]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31492]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31494]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31496]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31498]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31500]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31502]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31504]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31506]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31508]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31510]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31512]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31514]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31516]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31518]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31520]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31522]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31524]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31526]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31528]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31530]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31532]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31534]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31536]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31538]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31540]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31542]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31544]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31546]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31548]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31550]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31552]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31554]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31556]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31560]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31562]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31564]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31566]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31568]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31570]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31572]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31574]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31576]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31578]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31580]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31582]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31584]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31586]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31588]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31590]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31594]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31596]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31598]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31600]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31602]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31604]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31606]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31608]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31610]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31612]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31614]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31616]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31618]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31620]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31622]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31624]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31626]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31628]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31630]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31632]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31634]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31636]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31638]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31640]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31642]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31644]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31646]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31648]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31650]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31652]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31654]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31656]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31658]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31660]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31662]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31664]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31666]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31668]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31670]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31672]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31674]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31676]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31678]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31680]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31682]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31684]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31686]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31688]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31690]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31694]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31696]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31698]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31700]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31702]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31704]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31706]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31708]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31710]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31712]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:34 ip-172-31-90-243.ec2.internal sudo[31714]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31716]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31718]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31720]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31722]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31724]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31726]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31728]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31730]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31732]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31734]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31736]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31738]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31740]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31742]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31744]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31746]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31748]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31750]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31752]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31754]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31756]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31760]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31762]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31764]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31766]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31768]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31770]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31772]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31774]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31776]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31778]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31780]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31782]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31784]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31786]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31788]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31790]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31792]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31794]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31796]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31798]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31800]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31802]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31804]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31806]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31810]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31812]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31814]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31816]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31818]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31820]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31822]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31824]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31826]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31828]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31830]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31832]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31834]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31836]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31838]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31840]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31842]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31844]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31846]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31848]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31850]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31852]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31854]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31856]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31860]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31862]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31864]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31866]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31868]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31870]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31872]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31874]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31876]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31878]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31880]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31882]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31884]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31886]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31888]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31890]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31892]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31894]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31896]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31898]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31900]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31902]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31904]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31906]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31908]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31910]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31912]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31914]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31916]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31918]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31920]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31922]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31924]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31926]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31928]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31930]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31932]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31934]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31936]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31938]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:35 ip-172-31-90-243.ec2.internal sudo[31940]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[31942]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[31944]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[31946]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[31948]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[31950]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[31952]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[31954]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[31956]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[31958]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[31960]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[31962]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[31964]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[31966]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[31968]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[31970]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[31972]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[31974]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[31976]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[31978]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[31980]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[31982]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[31984]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[31986]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[31988]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[31990]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[31992]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[31994]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[31996]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[31998]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32000]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32002]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32004]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32006]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32008]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32010]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32012]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32014]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32016]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32018]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32020]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32022]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32024]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32026]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32028]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32030]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32032]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32034]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32036]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32038]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32040]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32042]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32044]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32046]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32048]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32050]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32052]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32054]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32056]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32060]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32062]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32064]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32066]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32068]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32070]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32072]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32074]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32076]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32078]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32080]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32082]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32084]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32086]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32088]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32090]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32094]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32096]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32098]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32100]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32102]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32104]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32106]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32108]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32110]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32112]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32114]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32116]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32118]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32120]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32122]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32124]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32126]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32128]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32130]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32132]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32134]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32136]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32138]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32140]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32142]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32144]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32146]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32148]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32150]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32152]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32154]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32156]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32158]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32160]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32162]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32164]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32166]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32168]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:36 ip-172-31-90-243.ec2.internal sudo[32170]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32172]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32174]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32176]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32178]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32180]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32182]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32184]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32186]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32188]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32190]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32192]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32194]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32196]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32198]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32200]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32202]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32204]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32206]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32210]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32212]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32214]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32216]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32218]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32220]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32222]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32224]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32226]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32228]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32230]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32232]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32234]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32236]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32238]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32240]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32242]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32244]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32246]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32248]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32250]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32252]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32254]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32256]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32258]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32260]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32262]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32264]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32266]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32268]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32270]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32272]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32274]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32276]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32278]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32280]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32282]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32284]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32286]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32288]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32290]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32292]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32294]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32296]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32298]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32300]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32302]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32304]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32306]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32308]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32310]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32312]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32314]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32316]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32318]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32320]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32322]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32324]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32326]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32328]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32330]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32332]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32334]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32336]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32338]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32340]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32344]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32346]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32348]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32350]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32352]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32354]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32356]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32358]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32360]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32362]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32364]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32366]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32368]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32370]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32372]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32374]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32376]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32378]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32380]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32382]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32384]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32386]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32388]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32390]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32394]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32396]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:37 ip-172-31-90-243.ec2.internal sudo[32398]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32400]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32402]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32404]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32406]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32410]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32412]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32414]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32416]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32418]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32420]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32422]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32424]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32426]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32428]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32430]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32432]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32434]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32436]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32438]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32440]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32442]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32444]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32446]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32448]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32450]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32452]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32454]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32456]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32458]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32460]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32462]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32464]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32466]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32468]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32470]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32472]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32474]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32476]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32478]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32480]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32482]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32484]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32486]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32488]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32490]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32492]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32494]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32497]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32499]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32501]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32503]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32505]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32507]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32509]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32511]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32513]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32515]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32517]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32519]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32521]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32523]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32525]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32527]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32529]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32531]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32533]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32535]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32537]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32539]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32541]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32543]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32545]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32547]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32549]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32551]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32553]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32555]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32557]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32561]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32563]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32565]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32567]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32569]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32571]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32573]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32575]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32577]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32579]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32581]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32583]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32585]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32587]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32589]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32591]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32593]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32595]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32597]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32599]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32601]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32603]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32605]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32607]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32609]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32611]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32613]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32615]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32617]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32619]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32621]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32623]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:38 ip-172-31-90-243.ec2.internal sudo[32625]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:39 ip-172-31-90-243.ec2.internal sudo[32627]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:39 ip-172-31-90-243.ec2.internal sudo[32629]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:39 ip-172-31-90-243.ec2.internal sudo[32631]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:39 ip-172-31-90-243.ec2.internal sudo[32633]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:39 ip-172-31-90-243.ec2.internal sudo[32635]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:39 ip-172-31-90-243.ec2.internal sudo[32637]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:39 ip-172-31-90-243.ec2.internal sudo[32639]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:39 ip-172-31-90-243.ec2.internal sudo[32641]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:39 ip-172-31-90-243.ec2.internal sudo[32643]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:39 ip-172-31-90-243.ec2.internal sudo[32645]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:39 ip-172-31-90-243.ec2.internal sudo[32647]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:39 ip-172-31-90-243.ec2.internal sudo[32649]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:39 ip-172-31-90-243.ec2.internal sudo[32651]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:39 ip-172-31-90-243.ec2.internal sudo[32653]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:39 ip-172-31-90-243.ec2.internal sudo[32655]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:39 ip-172-31-90-243.ec2.internal sudo[32657]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:39 ip-172-31-90-243.ec2.internal sudo[32659]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:39 ip-172-31-90-243.ec2.internal sudo[32661]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:39 ip-172-31-90-243.ec2.internal sudo[32663]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:39 ip-172-31-90-243.ec2.internal sudo[32665]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:39 ip-172-31-90-243.ec2.internal sudo[32667]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:39 ip-172-31-90-243.ec2.internal sudo[32669]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:39 ip-172-31-90-243.ec2.internal sudo[32671]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:39 ip-172-31-90-243.ec2.internal sudo[32673]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:39 ip-172-31-90-243.ec2.internal sudo[32675]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:39 ip-172-31-90-243.ec2.internal sudo[32677]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:39 ip-172-31-90-243.ec2.internal sudo[32679]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:39 ip-172-31-90-243.ec2.internal sudo[32681]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:39 ip-172-31-90-243.ec2.internal sudo[32683]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:39 ip-172-31-90-243.ec2.internal sudo[32685]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:39 ip-172-31-90-243.ec2.internal sudo[32687]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:39 ip-172-31-90-243.ec2.internal sudo[32689]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:39 ip-172-31-90-243.ec2.internal sudo[32691]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:39 ip-172-31-90-243.ec2.internal sudo[32693]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:39 ip-172-31-90-243.ec2.internal sudo[32695]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:39 ip-172-31-90-243.ec2.internal sudo[32697]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:39 ip-172-31-90-243.ec2.internal sudo[32699]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:39 ip-172-31-90-243.ec2.internal sudo[32701]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:39 ip-172-31-90-243.ec2.internal sudo[32703]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:39 ip-172-31-90-243.ec2.internal sudo[32705]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:39 ip-172-31-90-243.ec2.internal sudo[32707]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:39 ip-172-31-90-243.ec2.internal sudo[32709]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:39 ip-172-31-90-243.ec2.internal sudo[32711]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:39 ip-172-31-90-243.ec2.internal sudo[32713]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:39 ip-172-31-90-243.ec2.internal sudo[32715]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:39 ip-172-31-90-243.ec2.internal sudo[32718]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:39 ip-172-31-90-243.ec2.internal sudo[32725]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:39 ip-172-31-90-243.ec2.internal sudo[32727]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:39 ip-172-31-90-243.ec2.internal sudo[32729]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:39 ip-172-31-90-243.ec2.internal sudo[32731]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:39 ip-172-31-90-243.ec2.internal sudo[32733]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:39 ip-172-31-90-243.ec2.internal sudo[32735]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:39 ip-172-31-90-243.ec2.internal sudo[32737]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:39 ip-172-31-90-243.ec2.internal sudo[32739]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:39 ip-172-31-90-243.ec2.internal sudo[32741]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:39 ip-172-31-90-243.ec2.internal sudo[32743]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:39 ip-172-31-90-243.ec2.internal sudo[32745]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:39 ip-172-31-90-243.ec2.internal sudo[32747]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:39:54 ip-172-31-90-243.ec2.internal dhclient[2845]: XMT: Solicit on eth0, interval 108400ms.
+Feb 25 00:40:01 ip-172-31-90-243.ec2.internal systemd-journal[1666]: Suppressed 364 messages from /
+-- Subject: Messages from a service have been suppressed
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- Documentation: man:journald.conf(5)
+-- 
+-- A service has logged too many messages within a time period. Messages
+-- from the service have been dropped.
+-- 
+-- Note that only messages from the service in question have been
+-- dropped, other services' messages are unaffected.
+-- 
+-- The limits controlling when messages are dropped may be configured
+-- with RateLimitInterval= and RateLimitBurst= in
+-- /etc/systemd/journald.conf. See journald.conf(5) for details.
+Feb 25 00:40:01 ip-172-31-90-243.ec2.internal systemd[1]: Started Session 14 of user root.
+-- Subject: Unit session-14.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-14.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Feb 25 00:40:01 ip-172-31-90-243.ec2.internal systemd[1]: Starting Session 14 of user root.
+-- Subject: Unit session-14.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-14.scope has begun starting up.
+Feb 25 00:40:01 ip-172-31-90-243.ec2.internal CROND[1092]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Feb 25 00:40:39 ip-172-31-90-243.ec2.internal systemd-journal[1666]: Suppressed 3098 messages from /user.slice/user-1000.slice
+-- Subject: Messages from a service have been suppressed
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- Documentation: man:journald.conf(5)
+-- 
+-- A service has logged too many messages within a time period. Messages
+-- from the service have been dropped.
+-- 
+-- Note that only messages from the service in question have been
+-- dropped, other services' messages are unaffected.
+-- 
+-- The limits controlling when messages are dropped may be configured
+-- with RateLimitInterval= and RateLimitBurst= in
+-- /etc/systemd/journald.conf. See journald.conf(5) for details.
+Feb 25 00:40:39 ip-172-31-90-243.ec2.internal sudo[1128]: [1;39mec2-user : TTY=pts/0 ; PWD=/home/ec2-user ; USER=root ; COMMAND=/bin/mv /etc/httpd/conf.d/welcome.conf /etc/httpd/conf.d/welcome.conf.bkp[0m
+Feb 25 00:40:39 ip-172-31-90-243.ec2.internal sudo[1128]: pam_unix(sudo:session): session opened for user root by ec2-user(uid=0)
+Feb 25 00:40:39 ip-172-31-90-243.ec2.internal sudo[1128]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:40:57 ip-172-31-90-243.ec2.internal sudo[1130]: [1;39mec2-user : TTY=pts/0 ; PWD=/home/ec2-user ; USER=root ; COMMAND=/bin/systemctl restart httpd[0m
+Feb 25 00:40:57 ip-172-31-90-243.ec2.internal sudo[1130]: pam_unix(sudo:session): session opened for user root by ec2-user(uid=0)
+Feb 25 00:40:57 ip-172-31-90-243.ec2.internal systemd[1]: Stopping The Apache HTTP Server...
+-- Subject: Unit httpd.service has begun shutting down
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit httpd.service has begun shutting down.
+Feb 25 00:40:58 ip-172-31-90-243.ec2.internal systemd[1]: Starting The Apache HTTP Server...
+-- Subject: Unit httpd.service has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit httpd.service has begun starting up.
+Feb 25 00:40:59 ip-172-31-90-243.ec2.internal systemd[1]: Started The Apache HTTP Server.
+-- Subject: Unit httpd.service has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit httpd.service has finished starting up.
+-- 
+-- The start-up result is done.
+Feb 25 00:40:59 ip-172-31-90-243.ec2.internal sudo[1130]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:41:43 ip-172-31-90-243.ec2.internal dhclient[2845]: XMT: Solicit on eth0, interval 119640ms.
+Feb 25 00:42:47 ip-172-31-90-243.ec2.internal sudo[1192]: [1;39mec2-user : TTY=pts/0 ; PWD=/home/ec2-user ; USER=root ; COMMAND=/bin/yum install -y certbot python2-certbot-apache[0m
+Feb 25 00:42:47 ip-172-31-90-243.ec2.internal sudo[1192]: pam_unix(sudo:session): session opened for user root by ec2-user(uid=0)
+Feb 25 00:42:53 ip-172-31-90-243.ec2.internal yum[1193]: Installed: pyOpenSSL-0.13.1-3.amzn2.0.2.x86_64
+Feb 25 00:42:53 ip-172-31-90-243.ec2.internal yum[1193]: Installed: python2-pyrfc3339-1.1-3.el7.noarch
+Feb 25 00:42:53 ip-172-31-90-243.ec2.internal yum[1193]: Installed: python-zope-interface-4.0.5-4.amzn2.0.2.x86_64
+Feb 25 00:42:53 ip-172-31-90-243.ec2.internal yum[1193]: Installed: pytz-2016.10-2.amzn2.0.1.noarch
+Feb 25 00:42:53 ip-172-31-90-243.ec2.internal yum[1193]: Installed: python2-six-1.9.0-0.el7.noarch
+Feb 25 00:42:53 ip-172-31-90-243.ec2.internal yum[1193]: Installed: python2-josepy-1.3.0-2.el7.noarch
+Feb 25 00:42:54 ip-172-31-90-243.ec2.internal yum[1193]: Installed: python-ndg_httpsclient-0.3.2-1.el7.noarch
+Feb 25 00:42:54 ip-172-31-90-243.ec2.internal yum[1193]: Installed: python-zope-event-4.0.3-2.el7.noarch
+Feb 25 00:42:54 ip-172-31-90-243.ec2.internal yum[1193]: Installed: 1:python-zope-component-4.1.0-5.el7.noarch
+Feb 25 00:42:54 ip-172-31-90-243.ec2.internal yum[1193]: Installed: python2-mock-1.0.1-10.el7.noarch
+Feb 25 00:42:54 ip-172-31-90-243.ec2.internal yum[1193]: Installed: libsemanage-python-2.5-11.amzn2.x86_64
+Feb 25 00:42:54 ip-172-31-90-243.ec2.internal yum[1193]: Installed: checkpolicy-2.5-6.amzn2.x86_64
+Feb 25 00:42:54 ip-172-31-90-243.ec2.internal groupadd[1213]: group added to /etc/group: name=cgred, GID=992
+Feb 25 00:42:54 ip-172-31-90-243.ec2.internal groupadd[1213]: group added to /etc/gshadow: name=cgred
+Feb 25 00:42:54 ip-172-31-90-243.ec2.internal groupadd[1213]: new group: name=cgred, GID=992
+Feb 25 00:42:54 ip-172-31-90-243.ec2.internal yum[1193]: Installed: libcgroup-0.41-21.amzn2.x86_64
+Feb 25 00:42:54 ip-172-31-90-243.ec2.internal yum[1193]: Installed: python2-distro-1.2.0-3.el7.noarch
+Feb 25 00:42:54 ip-172-31-90-243.ec2.internal yum[1193]: Installed: setools-libs-3.3.8-2.amzn2.0.2.x86_64
+Feb 25 00:42:54 ip-172-31-90-243.ec2.internal yum[1193]: Installed: python2-future-0.18.2-2.el7.noarch
+Feb 25 00:42:54 ip-172-31-90-243.ec2.internal yum[1193]: Installed: python2-parsedatetime-2.4-6.el7.noarch
+Feb 25 00:42:54 ip-172-31-90-243.ec2.internal yum[1193]: Installed: python2-configargparse-0.11.0-2.el7.noarch
+Feb 25 00:42:54 ip-172-31-90-243.ec2.internal yum[1193]: Installed: python-requests-toolbelt-0.8.0-3.el7.noarch
+Feb 25 00:42:55 ip-172-31-90-243.ec2.internal yum[1193]: Installed: python2-acme-1.11.0-1.el7.noarch
+Feb 25 00:42:55 ip-172-31-90-243.ec2.internal yum[1193]: Installed: python2-certbot-1.11.0-1.el7.noarch
+Feb 25 00:42:55 ip-172-31-90-243.ec2.internal yum[1193]: Installed: augeas-libs-1.4.0-9.amzn2.x86_64
+Feb 25 00:42:55 ip-172-31-90-243.ec2.internal yum[1193]: Installed: python-augeas-0.5.0-2.amzn2.noarch
+Feb 25 00:42:55 ip-172-31-90-243.ec2.internal yum[1193]: Installed: audit-libs-python-2.8.1-3.amzn2.1.x86_64
+Feb 25 00:42:55 ip-172-31-90-243.ec2.internal yum[1193]: Installed: libselinux-python-2.5-12.amzn2.0.2.x86_64
+Feb 25 00:42:55 ip-172-31-90-243.ec2.internal yum[1193]: Installed: python-IPy-0.75-6.amzn2.0.1.noarch
+Feb 25 00:42:55 ip-172-31-90-243.ec2.internal dbus[2482]: [1;39m[system] Reloaded configuration[0m
+Feb 25 00:42:55 ip-172-31-90-243.ec2.internal dbus[2482]: [1;39m[system] Reloaded configuration[0m
+Feb 25 00:42:55 ip-172-31-90-243.ec2.internal yum[1193]: Installed: policycoreutils-python-2.5-22.amzn2.x86_64
+Feb 25 00:43:04 ip-172-31-90-243.ec2.internal yum[1193]: Installed: certbot-1.11.0-1.el7.noarch
+Feb 25 00:43:04 ip-172-31-90-243.ec2.internal yum[1193]: Installed: python2-certbot-apache-1.11.0-1.el7.noarch
+Feb 25 00:43:04 ip-172-31-90-243.ec2.internal systemd[1]: Stopping Dynamically Generate Message Of The Day...
+-- Subject: Unit update-motd.service has begun shutting down
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit update-motd.service has begun shutting down.
+Feb 25 00:43:04 ip-172-31-90-243.ec2.internal systemd[1]: Starting Dynamically Generate Message Of The Day...
+-- Subject: Unit update-motd.service has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit update-motd.service has begun starting up.
+Feb 25 00:43:05 ip-172-31-90-243.ec2.internal sudo[1192]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:43:08 ip-172-31-90-243.ec2.internal sudo[1254]: [1;39mec2-user : TTY=pts/0 ; PWD=/home/ec2-user ; USER=root ; COMMAND=/bin/certbot[0m
+Feb 25 00:43:08 ip-172-31-90-243.ec2.internal sudo[1254]: pam_unix(sudo:session): session opened for user root by ec2-user(uid=0)
+Feb 25 00:43:15 ip-172-31-90-243.ec2.internal systemd[1]: Started Dynamically Generate Message Of The Day.
+-- Subject: Unit update-motd.service has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit update-motd.service has finished starting up.
+-- 
+-- The start-up result is done.
+Feb 25 00:43:27 ip-172-31-90-243.ec2.internal sudo[1254]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:43:31 ip-172-31-90-243.ec2.internal sudo[1273]: [1;39mec2-user : TTY=pts/0 ; PWD=/home/ec2-user ; USER=root ; COMMAND=/bin/certbot[0m
+Feb 25 00:43:31 ip-172-31-90-243.ec2.internal sudo[1273]: pam_unix(sudo:session): session opened for user root by ec2-user(uid=0)
+Feb 25 00:43:42 ip-172-31-90-243.ec2.internal dhclient[2845]: XMT: Solicit on eth0, interval 120970ms.
+Feb 25 00:44:35 ip-172-31-90-243.ec2.internal sudo[1273]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:44:35 ip-172-31-90-243.ec2.internal rsyslogd[3043]: imjournal: 2861 messages lost due to rate-limiting
+Feb 25 00:45:13 ip-172-31-90-243.ec2.internal sudo[1534]: [1;39mec2-user : TTY=pts/0 ; PWD=/home/ec2-user ; USER=root ; COMMAND=/bin/crontab -e[0m
+Feb 25 00:45:13 ip-172-31-90-243.ec2.internal sudo[1534]: pam_unix(sudo:session): session opened for user root by ec2-user(uid=0)
+Feb 25 00:45:13 ip-172-31-90-243.ec2.internal crontab[1535]: (root) BEGIN EDIT (root)
+Feb 25 00:45:34 ip-172-31-90-243.ec2.internal crontab[1535]: (root) END EDIT (root)
+Feb 25 00:45:34 ip-172-31-90-243.ec2.internal sudo[1534]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:45:44 ip-172-31-90-243.ec2.internal dhclient[2845]: XMT: Solicit on eth0, interval 128560ms.
+Feb 25 00:46:11 ip-172-31-90-243.ec2.internal sudo[1545]: [1;39mec2-user : TTY=pts/0 ; PWD=/home/ec2-user ; USER=root ; COMMAND=/bin/systemctl restart crond[0m
+Feb 25 00:46:11 ip-172-31-90-243.ec2.internal sudo[1545]: pam_unix(sudo:session): session opened for user root by ec2-user(uid=0)
+Feb 25 00:46:11 ip-172-31-90-243.ec2.internal systemd[1]: Stopping Command Scheduler...
+-- Subject: Unit crond.service has begun shutting down
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit crond.service has begun shutting down.
+Feb 25 00:46:11 ip-172-31-90-243.ec2.internal crond[3071]: (CRON) INFO (Shutting down)
+Feb 25 00:46:11 ip-172-31-90-243.ec2.internal systemd[1]: Started Command Scheduler.
+-- Subject: Unit crond.service has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit crond.service has finished starting up.
+-- 
+-- The start-up result is done.
+Feb 25 00:46:11 ip-172-31-90-243.ec2.internal systemd[1]: Starting Command Scheduler...
+-- Subject: Unit crond.service has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit crond.service has begun starting up.
+Feb 25 00:46:11 ip-172-31-90-243.ec2.internal sudo[1545]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:46:11 ip-172-31-90-243.ec2.internal crond[1551]: (CRON) INFO (RANDOM_DELAY will be scaled with factor 28% if used.)
+Feb 25 00:46:11 ip-172-31-90-243.ec2.internal crond[1551]: (CRON) INFO (running with inotify support)
+Feb 25 00:46:11 ip-172-31-90-243.ec2.internal crond[1551]: (CRON) INFO (@reboot jobs will be run at computer's startup.)
+Feb 25 00:46:22 ip-172-31-90-243.ec2.internal sudo[1552]: [1;39mec2-user : TTY=pts/0 ; PWD=/home/ec2-user ; USER=root ; COMMAND=/bin/crontab -e[0m
+Feb 25 00:46:22 ip-172-31-90-243.ec2.internal sudo[1552]: pam_unix(sudo:session): session opened for user root by ec2-user(uid=0)
+Feb 25 00:46:22 ip-172-31-90-243.ec2.internal crontab[1553]: (root) BEGIN EDIT (root)
+Feb 25 00:46:33 ip-172-31-90-243.ec2.internal crontab[1553]: (root) REPLACE (root)
+Feb 25 00:46:33 ip-172-31-90-243.ec2.internal crontab[1553]: (root) END EDIT (root)
+Feb 25 00:46:33 ip-172-31-90-243.ec2.internal sudo[1552]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:46:40 ip-172-31-90-243.ec2.internal sudo[1555]: [1;39mec2-user : TTY=pts/0 ; PWD=/home/ec2-user ; USER=root ; COMMAND=/bin/crontab -l[0m
+Feb 25 00:46:40 ip-172-31-90-243.ec2.internal sudo[1555]: pam_unix(sudo:session): session opened for user root by ec2-user(uid=0)
+Feb 25 00:46:40 ip-172-31-90-243.ec2.internal crontab[1556]: (root) LIST (root)
+Feb 25 00:46:40 ip-172-31-90-243.ec2.internal sudo[1555]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:46:44 ip-172-31-90-243.ec2.internal sudo[1560]: [1;39mec2-user : TTY=pts/0 ; PWD=/home/ec2-user ; USER=root ; COMMAND=/bin/systemctl restart crond[0m
+Feb 25 00:46:44 ip-172-31-90-243.ec2.internal sudo[1560]: pam_unix(sudo:session): session opened for user root by ec2-user(uid=0)
+Feb 25 00:46:44 ip-172-31-90-243.ec2.internal systemd[1]: Stopping Command Scheduler...
+-- Subject: Unit crond.service has begun shutting down
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit crond.service has begun shutting down.
+Feb 25 00:46:44 ip-172-31-90-243.ec2.internal crond[1551]: (CRON) INFO (Shutting down)
+Feb 25 00:46:44 ip-172-31-90-243.ec2.internal systemd[1]: Started Command Scheduler.
+-- Subject: Unit crond.service has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit crond.service has finished starting up.
+-- 
+-- The start-up result is done.
+Feb 25 00:46:44 ip-172-31-90-243.ec2.internal systemd[1]: Starting Command Scheduler...
+-- Subject: Unit crond.service has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit crond.service has begun starting up.
+Feb 25 00:46:44 ip-172-31-90-243.ec2.internal sudo[1560]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:46:44 ip-172-31-90-243.ec2.internal crond[1567]: (CRON) INFO (RANDOM_DELAY will be scaled with factor 87% if used.)
+Feb 25 00:46:44 ip-172-31-90-243.ec2.internal crond[1567]: (CRON) INFO (running with inotify support)
+Feb 25 00:46:44 ip-172-31-90-243.ec2.internal crond[1567]: (CRON) INFO (@reboot jobs will be run at computer's startup.)
+Feb 25 00:47:15 ip-172-31-90-243.ec2.internal sudo[1569]: [1;39mec2-user : TTY=pts/0 ; PWD=/home/ec2-user ; USER=root ; COMMAND=/bin/yum list installed httpd mariadb-server php-mysqlnd[0m
+Feb 25 00:47:15 ip-172-31-90-243.ec2.internal sudo[1569]: pam_unix(sudo:session): session opened for user root by ec2-user(uid=0)
+Feb 25 00:47:17 ip-172-31-90-243.ec2.internal sudo[1569]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:47:26 ip-172-31-90-243.ec2.internal sudo[1572]: [1;39mec2-user : TTY=pts/0 ; PWD=/home/ec2-user ; USER=root ; COMMAND=/bin/systemctl start mariadb[0m
+Feb 25 00:47:26 ip-172-31-90-243.ec2.internal sudo[1572]: pam_unix(sudo:session): session opened for user root by ec2-user(uid=0)
+Feb 25 00:47:26 ip-172-31-90-243.ec2.internal systemd[1]: Starting MariaDB 10.2 database server...
+-- Subject: Unit mariadb.service has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit mariadb.service has begun starting up.
+Feb 25 00:47:26 ip-172-31-90-243.ec2.internal mysql-prepare-db-dir[1611]: Initializing MariaDB database
+Feb 25 00:47:29 ip-172-31-90-243.ec2.internal mysql-prepare-db-dir[1611]: PLEASE REMEMBER TO SET A PASSWORD FOR THE MariaDB root USER !
+Feb 25 00:47:29 ip-172-31-90-243.ec2.internal mysql-prepare-db-dir[1611]: To do so, start the server, then issue the following commands:
+Feb 25 00:47:29 ip-172-31-90-243.ec2.internal mysql-prepare-db-dir[1611]: '/usr/bin/mysqladmin' -u root password 'new-password'
+Feb 25 00:47:29 ip-172-31-90-243.ec2.internal mysql-prepare-db-dir[1611]: '/usr/bin/mysqladmin' -u root -h ip-172-31-90-243.ec2.internal password 'new-password'
+Feb 25 00:47:29 ip-172-31-90-243.ec2.internal mysql-prepare-db-dir[1611]: Alternatively you can run:
+Feb 25 00:47:29 ip-172-31-90-243.ec2.internal mysql-prepare-db-dir[1611]: '/usr/bin/mysql_secure_installation'
+Feb 25 00:47:29 ip-172-31-90-243.ec2.internal mysql-prepare-db-dir[1611]: which will also give you the option of removing the test
+Feb 25 00:47:29 ip-172-31-90-243.ec2.internal mysql-prepare-db-dir[1611]: databases and anonymous user created by default.  This is
+Feb 25 00:47:29 ip-172-31-90-243.ec2.internal mysql-prepare-db-dir[1611]: strongly recommended for production servers.
+Feb 25 00:47:29 ip-172-31-90-243.ec2.internal mysql-prepare-db-dir[1611]: See the MariaDB Knowledgebase at http://mariadb.com/kb or the
+Feb 25 00:47:29 ip-172-31-90-243.ec2.internal mysql-prepare-db-dir[1611]: MySQL manual for more instructions.
+Feb 25 00:47:29 ip-172-31-90-243.ec2.internal mysql-prepare-db-dir[1611]: Please report any problems at http://mariadb.org/jira
+Feb 25 00:47:29 ip-172-31-90-243.ec2.internal mysql-prepare-db-dir[1611]: The latest information about MariaDB is available at http://mariadb.org/.
+Feb 25 00:47:29 ip-172-31-90-243.ec2.internal mysql-prepare-db-dir[1611]: You can find additional information about the MySQL part at:
+Feb 25 00:47:29 ip-172-31-90-243.ec2.internal mysql-prepare-db-dir[1611]: http://dev.mysql.com
+Feb 25 00:47:29 ip-172-31-90-243.ec2.internal mysql-prepare-db-dir[1611]: Consider joining MariaDB's strong and vibrant community:
+Feb 25 00:47:29 ip-172-31-90-243.ec2.internal mysql-prepare-db-dir[1611]: https://mariadb.org/get-involved/
+Feb 25 00:47:30 ip-172-31-90-243.ec2.internal mysqld[1749]: 2021-02-25  0:47:30 140052391898944 [Note] /usr/libexec/mysqld (mysqld 10.2.10-MariaDB) starting as process 1749 ...
+Feb 25 00:47:30 ip-172-31-90-243.ec2.internal systemd[1]: Started MariaDB 10.2 database server.
+-- Subject: Unit mariadb.service has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit mariadb.service has finished starting up.
+-- 
+-- The start-up result is done.
+Feb 25 00:47:30 ip-172-31-90-243.ec2.internal sudo[1572]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:47:34 ip-172-31-90-243.ec2.internal sudo[1862]: [1;39mec2-user : TTY=pts/0 ; PWD=/home/ec2-user ; USER=root ; COMMAND=/bin/mysql_secure_installation[0m
+Feb 25 00:47:34 ip-172-31-90-243.ec2.internal sudo[1862]: pam_unix(sudo:session): session opened for user root by ec2-user(uid=0)
+Feb 25 00:47:52 ip-172-31-90-243.ec2.internal dhclient[2845]: XMT: Solicit on eth0, interval 120550ms.
+Feb 25 00:48:34 ip-172-31-90-243.ec2.internal sudo[1862]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:48:40 ip-172-31-90-243.ec2.internal sudo[1905]: [1;39mec2-user : TTY=pts/0 ; PWD=/home/ec2-user ; USER=root ; COMMAND=/bin/systemctl stop mariadb[0m
+Feb 25 00:48:40 ip-172-31-90-243.ec2.internal sudo[1905]: pam_unix(sudo:session): session opened for user root by ec2-user(uid=0)
+Feb 25 00:48:40 ip-172-31-90-243.ec2.internal systemd[1]: Stopping MariaDB 10.2 database server...
+-- Subject: Unit mariadb.service has begun shutting down
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit mariadb.service has begun shutting down.
+Feb 25 00:48:42 ip-172-31-90-243.ec2.internal systemd[1]: Stopped MariaDB 10.2 database server.
+-- Subject: Unit mariadb.service has finished shutting down
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit mariadb.service has finished shutting down.
+Feb 25 00:48:42 ip-172-31-90-243.ec2.internal sudo[1905]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:48:46 ip-172-31-90-243.ec2.internal sudo[1914]: [1;39mec2-user : TTY=pts/0 ; PWD=/home/ec2-user ; USER=root ; COMMAND=/bin/systemctl enable mariadb[0m
+Feb 25 00:48:46 ip-172-31-90-243.ec2.internal sudo[1914]: pam_unix(sudo:session): session opened for user root by ec2-user(uid=0)
+Feb 25 00:48:46 ip-172-31-90-243.ec2.internal systemd[1]: Reloading.
+Feb 25 00:48:46 ip-172-31-90-243.ec2.internal sudo[1914]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:49:04 ip-172-31-90-243.ec2.internal sudo[1935]: [1;39mec2-user : TTY=pts/0 ; PWD=/home/ec2-user ; USER=root ; COMMAND=/bin/yum install php-mbstring -y[0m
+Feb 25 00:49:04 ip-172-31-90-243.ec2.internal sudo[1935]: pam_unix(sudo:session): session opened for user root by ec2-user(uid=0)
+Feb 25 00:49:07 ip-172-31-90-243.ec2.internal yum[1936]: Installed: oniguruma-5.9.6-1.amzn2.0.4.x86_64
+Feb 25 00:49:08 ip-172-31-90-243.ec2.internal yum[1936]: Installed: php-mbstring-7.2.34-1.amzn2.x86_64
+Feb 25 00:49:08 ip-172-31-90-243.ec2.internal systemd[1]: Stopping Dynamically Generate Message Of The Day...
+-- Subject: Unit update-motd.service has begun shutting down
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit update-motd.service has begun shutting down.
+Feb 25 00:49:08 ip-172-31-90-243.ec2.internal systemd[1]: Starting Dynamically Generate Message Of The Day...
+-- Subject: Unit update-motd.service has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit update-motd.service has begun starting up.
+Feb 25 00:49:08 ip-172-31-90-243.ec2.internal sudo[1935]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:49:18 ip-172-31-90-243.ec2.internal systemd[1]: Started Dynamically Generate Message Of The Day.
+-- Subject: Unit update-motd.service has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit update-motd.service has finished starting up.
+-- 
+-- The start-up result is done.
+Feb 25 00:49:53 ip-172-31-90-243.ec2.internal dhclient[2845]: XMT: Solicit on eth0, interval 109030ms.
+Feb 25 00:50:01 ip-172-31-90-243.ec2.internal systemd[1]: Started Session 15 of user root.
+-- Subject: Unit session-15.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-15.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Feb 25 00:50:01 ip-172-31-90-243.ec2.internal systemd[1]: Starting Session 15 of user root.
+-- Subject: Unit session-15.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-15.scope has begun starting up.
+Feb 25 00:50:01 ip-172-31-90-243.ec2.internal CROND[2022]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Feb 25 00:51:42 ip-172-31-90-243.ec2.internal dhclient[2845]: XMT: Solicit on eth0, interval 114450ms.
+Feb 25 00:53:02 ip-172-31-90-243.ec2.internal sshd[3410]: pam_unix(sshd:session): session closed for user ec2-user
+Feb 25 00:53:02 ip-172-31-90-243.ec2.internal systemd-logind[2492]: Removed session 3.
+-- Subject: Session 3 has been terminated
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- Documentation: http://www.freedesktop.org/wiki/Software/systemd/multiseat
+-- 
+-- A session with the ID 3 has been terminated.
+Feb 25 00:53:36 ip-172-31-90-243.ec2.internal dhclient[2845]: XMT: Solicit on eth0, interval 110790ms.
+Feb 25 00:54:46 ip-172-31-90-243.ec2.internal sudo[2091]: [1;39mec2-user : TTY=pts/0 ; PWD=/home/ec2-user ; USER=root ; COMMAND=/bin/systemctl restart httpd[0m
+Feb 25 00:54:46 ip-172-31-90-243.ec2.internal sudo[2091]: pam_unix(sudo:session): session opened for user root by ec2-user(uid=0)
+Feb 25 00:54:47 ip-172-31-90-243.ec2.internal systemd[1]: Stopping The Apache HTTP Server...
+-- Subject: Unit httpd.service has begun shutting down
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit httpd.service has begun shutting down.
+Feb 25 00:54:49 ip-172-31-90-243.ec2.internal systemd[1]: Starting The Apache HTTP Server...
+-- Subject: Unit httpd.service has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit httpd.service has begun starting up.
+Feb 25 00:54:49 ip-172-31-90-243.ec2.internal systemd[1]: Started The Apache HTTP Server.
+-- Subject: Unit httpd.service has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit httpd.service has finished starting up.
+-- 
+-- The start-up result is done.
+Feb 25 00:54:49 ip-172-31-90-243.ec2.internal sudo[2091]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:54:53 ip-172-31-90-243.ec2.internal sudo[2146]: [1;39mec2-user : TTY=pts/0 ; PWD=/home/ec2-user ; USER=root ; COMMAND=/bin/systemctl restart php-fpm[0m
+Feb 25 00:54:53 ip-172-31-90-243.ec2.internal sudo[2146]: pam_unix(sudo:session): session opened for user root by ec2-user(uid=0)
+Feb 25 00:54:53 ip-172-31-90-243.ec2.internal systemd[1]: Stopping The PHP FastCGI Process Manager...
+-- Subject: Unit php-fpm.service has begun shutting down
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit php-fpm.service has begun shutting down.
+Feb 25 00:54:53 ip-172-31-90-243.ec2.internal systemd[1]: Starting The PHP FastCGI Process Manager...
+-- Subject: Unit php-fpm.service has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit php-fpm.service has begun starting up.
+Feb 25 00:54:53 ip-172-31-90-243.ec2.internal systemd[1]: Started The PHP FastCGI Process Manager.
+-- Subject: Unit php-fpm.service has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit php-fpm.service has finished starting up.
+-- 
+-- The start-up result is done.
+Feb 25 00:54:53 ip-172-31-90-243.ec2.internal sudo[2146]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:55:27 ip-172-31-90-243.ec2.internal dhclient[2845]: XMT: Solicit on eth0, interval 128560ms.
+Feb 25 00:55:45 ip-172-31-90-243.ec2.internal sudo[2168]: [1;39mec2-user : TTY=pts/0 ; PWD=/var/www/html ; USER=root ; COMMAND=/bin/systemctl start mariadb[0m
+Feb 25 00:55:45 ip-172-31-90-243.ec2.internal sudo[2168]: pam_unix(sudo:session): session opened for user root by ec2-user(uid=0)
+Feb 25 00:55:45 ip-172-31-90-243.ec2.internal systemd[1]: Starting MariaDB 10.2 database server...
+-- Subject: Unit mariadb.service has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit mariadb.service has begun starting up.
+Feb 25 00:55:45 ip-172-31-90-243.ec2.internal mysql-prepare-db-dir[2196]: Database MariaDB is probably initialized in /var/lib/mysql already, nothing is done.
+Feb 25 00:55:45 ip-172-31-90-243.ec2.internal mysql-prepare-db-dir[2196]: If this is not the case, make sure the /var/lib/mysql is empty before running mysql-prepare-db-dir.
+Feb 25 00:55:45 ip-172-31-90-243.ec2.internal mysqld[2235]: 2021-02-25  0:55:45 140129546067776 [Note] /usr/libexec/mysqld (mysqld 10.2.10-MariaDB) starting as process 2235 ...
+Feb 25 00:55:45 ip-172-31-90-243.ec2.internal systemd[1]: Started MariaDB 10.2 database server.
+-- Subject: Unit mariadb.service has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit mariadb.service has finished starting up.
+-- 
+-- The start-up result is done.
+Feb 25 00:55:45 ip-172-31-90-243.ec2.internal sudo[2168]: pam_unix(sudo:session): session closed for user root
+Feb 25 00:57:01 ip-172-31-90-243.ec2.internal anacron[3589]: [1;39mJob `cron.monthly' started[0m
+Feb 25 00:57:01 ip-172-31-90-243.ec2.internal anacron[3589]: [1;39mJob `cron.monthly' terminated[0m
+Feb 25 00:57:01 ip-172-31-90-243.ec2.internal anacron[3589]: [1;39mNormal exit (3 jobs run)[0m
+Feb 25 00:57:01 ip-172-31-90-243.ec2.internal systemd[1]: Removed slice User Slice of root.
+-- Subject: Unit user-0.slice has finished shutting down
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit user-0.slice has finished shutting down.
+Feb 25 00:57:01 ip-172-31-90-243.ec2.internal systemd[1]: Stopping User Slice of root.
+-- Subject: Unit user-0.slice has begun shutting down
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit user-0.slice has begun shutting down.
+Feb 25 00:57:36 ip-172-31-90-243.ec2.internal dhclient[2845]: XMT: Solicit on eth0, interval 123060ms.
+Feb 25 00:59:39 ip-172-31-90-243.ec2.internal dhclient[2845]: XMT: Solicit on eth0, interval 125210ms.
+Feb 25 01:00:01 ip-172-31-90-243.ec2.internal systemd[1]: Created slice User Slice of root.
+-- Subject: Unit user-0.slice has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit user-0.slice has finished starting up.
+-- 
+-- The start-up result is done.
+Feb 25 01:00:01 ip-172-31-90-243.ec2.internal systemd[1]: Starting User Slice of root.
+-- Subject: Unit user-0.slice has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit user-0.slice has begun starting up.
+Feb 25 01:00:01 ip-172-31-90-243.ec2.internal systemd[1]: Started Session 16 of user root.
+-- Subject: Unit session-16.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-16.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Feb 25 01:00:01 ip-172-31-90-243.ec2.internal systemd[1]: Starting Session 16 of user root.
+-- Subject: Unit session-16.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-16.scope has begun starting up.
+Feb 25 01:00:01 ip-172-31-90-243.ec2.internal CROND[2418]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Feb 25 01:00:01 ip-172-31-90-243.ec2.internal systemd[1]: Removed slice User Slice of root.
+-- Subject: Unit user-0.slice has finished shutting down
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit user-0.slice has finished shutting down.
+Feb 25 01:00:01 ip-172-31-90-243.ec2.internal systemd[1]: Stopping User Slice of root.
+-- Subject: Unit user-0.slice has begun shutting down
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit user-0.slice has begun shutting down.
+Feb 25 01:01:01 ip-172-31-90-243.ec2.internal systemd[1]: Created slice User Slice of root.
+-- Subject: Unit user-0.slice has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit user-0.slice has finished starting up.
+-- 
+-- The start-up result is done.
+Feb 25 01:01:01 ip-172-31-90-243.ec2.internal systemd[1]: Starting User Slice of root.
+-- Subject: Unit user-0.slice has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit user-0.slice has begun starting up.
+Feb 25 01:01:01 ip-172-31-90-243.ec2.internal systemd[1]: Started Session 17 of user root.
+-- Subject: Unit session-17.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-17.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Feb 25 01:01:01 ip-172-31-90-243.ec2.internal systemd[1]: Starting Session 17 of user root.
+-- Subject: Unit session-17.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-17.scope has begun starting up.
+Feb 25 01:01:01 ip-172-31-90-243.ec2.internal CROND[2426]: (root) CMD (run-parts /etc/cron.hourly)
+Feb 25 01:01:01 ip-172-31-90-243.ec2.internal run-parts(/etc/cron.hourly)[2429]: [1;39mstarting 0anacron[0m
+Feb 25 01:01:01 ip-172-31-90-243.ec2.internal run-parts(/etc/cron.hourly)[2435]: [1;39mfinished 0anacron[0m
+Feb 25 01:01:01 ip-172-31-90-243.ec2.internal systemd[1]: Removed slice User Slice of root.
+-- Subject: Unit user-0.slice has finished shutting down
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit user-0.slice has finished shutting down.
+Feb 25 01:01:01 ip-172-31-90-243.ec2.internal systemd[1]: Stopping User Slice of root.
+-- Subject: Unit user-0.slice has begun shutting down
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit user-0.slice has begun shutting down.
+Feb 25 01:01:44 ip-172-31-90-243.ec2.internal dhclient[2845]: XMT: Solicit on eth0, interval 115040ms.
+Feb 25 01:02:45 ip-172-31-90-243.ec2.internal dhclient[2724]: DHCPREQUEST on eth0 to 172.31.80.1 port 67 (xid=0x5af180db)
+Feb 25 01:02:45 ip-172-31-90-243.ec2.internal dhclient[2724]: DHCPACK from 172.31.80.1 (xid=0x5af180db)
+Feb 25 01:02:45 ip-172-31-90-243.ec2.internal dhclient[2724]: bound to 172.31.90.243 -- renewal in 1549 seconds.
+Feb 25 01:02:45 ip-172-31-90-243.ec2.internal ec2net[2499]: [1;39m[get_meta] Querying IMDS for meta-data/network/interfaces/macs/12:f3:f6:3a:89:0f/local-ipv4s[0m
+Feb 25 01:02:45 ip-172-31-90-243.ec2.internal ec2net[2500]: [1;39m[get_meta] Getting token for IMDSv2.[0m
+Feb 25 01:02:45 ip-172-31-90-243.ec2.internal ec2net[2503]: [1;39m[get_meta] Trying to get http://169.254.169.254/latest/meta-data/network/interfaces/macs/12:f3:f6:3a:89:0f/local-ipv4s[0m
+Feb 25 01:02:45 ip-172-31-90-243.ec2.internal ec2net[2506]: [1;39m[rewrite_aliases] Rewriting aliases of eth0[0m
+Feb 25 01:03:39 ip-172-31-90-243.ec2.internal dhclient[2845]: XMT: Solicit on eth0, interval 111630ms.
+Feb 25 01:05:31 ip-172-31-90-243.ec2.internal dhclient[2845]: XMT: Solicit on eth0, interval 123740ms.
+Feb 25 01:07:35 ip-172-31-90-243.ec2.internal dhclient[2845]: XMT: Solicit on eth0, interval 112330ms.
+Feb 25 01:09:27 ip-172-31-90-243.ec2.internal dhclient[2845]: XMT: Solicit on eth0, interval 122160ms.
+Feb 25 01:10:01 ip-172-31-90-243.ec2.internal systemd[1]: Created slice User Slice of root.
+-- Subject: Unit user-0.slice has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit user-0.slice has finished starting up.
+-- 
+-- The start-up result is done.
+Feb 25 01:10:01 ip-172-31-90-243.ec2.internal systemd[1]: Starting User Slice of root.
+-- Subject: Unit user-0.slice has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit user-0.slice has begun starting up.
+Feb 25 01:10:01 ip-172-31-90-243.ec2.internal systemd[1]: Started Session 18 of user root.
+-- Subject: Unit session-18.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-18.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Feb 25 01:10:01 ip-172-31-90-243.ec2.internal systemd[1]: Starting Session 18 of user root.
+-- Subject: Unit session-18.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-18.scope has begun starting up.
+Feb 25 01:10:01 ip-172-31-90-243.ec2.internal CROND[2528]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Feb 25 01:10:01 ip-172-31-90-243.ec2.internal systemd[1]: Removed slice User Slice of root.
+-- Subject: Unit user-0.slice has finished shutting down
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit user-0.slice has finished shutting down.
+Feb 25 01:10:01 ip-172-31-90-243.ec2.internal systemd[1]: Stopping User Slice of root.
+-- Subject: Unit user-0.slice has begun shutting down
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit user-0.slice has begun shutting down.
+Feb 25 01:11:21 ip-172-31-90-243.ec2.internal sudo[2557]: [1;39mec2-user : TTY=pts/0 ; PWD=/home/ec2-user ; USER=root ; COMMAND=/bin/nano /etc/httpd/conf/httpd.conf[0m
+Feb 25 01:11:21 ip-172-31-90-243.ec2.internal sudo[2557]: pam_unix(sudo:session): session opened for user root by ec2-user(uid=0)
+Feb 25 01:11:30 ip-172-31-90-243.ec2.internal dhclient[2845]: XMT: Solicit on eth0, interval 123530ms.
+Feb 25 01:12:52 ip-172-31-90-243.ec2.internal sudo[2557]: pam_unix(sudo:session): session closed for user root
+Feb 25 01:12:54 ip-172-31-90-243.ec2.internal sudo[2561]: [1;39mec2-user : TTY=pts/0 ; PWD=/home/ec2-user ; USER=root ; COMMAND=/bin/nano /etc/httpd/conf/httpd.conf[0m
+Feb 25 01:12:54 ip-172-31-90-243.ec2.internal sudo[2561]: pam_unix(sudo:session): session opened for user root by ec2-user(uid=0)
+Feb 25 01:13:33 ip-172-31-90-243.ec2.internal dhclient[2845]: XMT: Solicit on eth0, interval 118010ms.
+Feb 25 01:13:55 ip-172-31-90-243.ec2.internal sudo[2561]: pam_unix(sudo:session): session closed for user root
+Feb 25 01:14:08 ip-172-31-90-243.ec2.internal sudo[2564]: [1;39mec2-user : TTY=pts/0 ; PWD=/home/ec2-user ; USER=root ; COMMAND=/bin/systemctl restart httpd[0m
+Feb 25 01:14:08 ip-172-31-90-243.ec2.internal sudo[2564]: pam_unix(sudo:session): session opened for user root by ec2-user(uid=0)
+Feb 25 01:14:08 ip-172-31-90-243.ec2.internal systemd[1]: Stopping The Apache HTTP Server...
+-- Subject: Unit httpd.service has begun shutting down
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit httpd.service has begun shutting down.
+Feb 25 01:14:09 ip-172-31-90-243.ec2.internal systemd[1]: Starting The Apache HTTP Server...
+-- Subject: Unit httpd.service has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit httpd.service has begun starting up.
+Feb 25 01:14:09 ip-172-31-90-243.ec2.internal systemd[1]: Started The Apache HTTP Server.
+-- Subject: Unit httpd.service has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit httpd.service has finished starting up.
+-- 
+-- The start-up result is done.
+Feb 25 01:14:09 ip-172-31-90-243.ec2.internal sudo[2564]: pam_unix(sudo:session): session closed for user root
+Feb 25 01:14:50 ip-172-31-90-243.ec2.internal sudo[2625]: [1;39mec2-user : TTY=pts/0 ; PWD=/home/ec2-user ; USER=root ; COMMAND=/bin/nano /etc/httpd/conf/httpd.conf[0m
+Feb 25 01:14:50 ip-172-31-90-243.ec2.internal sudo[2625]: pam_unix(sudo:session): session opened for user root by ec2-user(uid=0)
+Feb 25 01:15:15 ip-172-31-90-243.ec2.internal sudo[2625]: pam_unix(sudo:session): session closed for user root
+Feb 25 01:15:17 ip-172-31-90-243.ec2.internal sudo[2627]: [1;39mec2-user : TTY=pts/0 ; PWD=/home/ec2-user ; USER=root ; COMMAND=/bin/systemctl restart httpd[0m
+Feb 25 01:15:17 ip-172-31-90-243.ec2.internal sudo[2627]: pam_unix(sudo:session): session opened for user root by ec2-user(uid=0)
+Feb 25 01:15:17 ip-172-31-90-243.ec2.internal systemd[1]: Stopping The Apache HTTP Server...
+-- Subject: Unit httpd.service has begun shutting down
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit httpd.service has begun shutting down.
+Feb 25 01:15:31 ip-172-31-90-243.ec2.internal dhclient[2845]: XMT: Solicit on eth0, interval 131180ms.
+Feb 25 01:15:40 ip-172-31-90-243.ec2.internal systemd[1]: Starting The Apache HTTP Server...
+-- Subject: Unit httpd.service has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit httpd.service has begun starting up.
+Feb 25 01:15:40 ip-172-31-90-243.ec2.internal systemd[1]: Started The Apache HTTP Server.
+-- Subject: Unit httpd.service has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit httpd.service has finished starting up.
+-- 
+-- The start-up result is done.
+Feb 25 01:15:40 ip-172-31-90-243.ec2.internal sudo[2627]: pam_unix(sudo:session): session closed for user root
+Feb 25 01:17:43 ip-172-31-90-243.ec2.internal dhclient[2845]: XMT: Solicit on eth0, interval 126060ms.
+Feb 25 01:19:49 ip-172-31-90-243.ec2.internal dhclient[2845]: XMT: Solicit on eth0, interval 112380ms.
+Feb 25 01:20:01 ip-172-31-90-243.ec2.internal systemd[1]: Created slice User Slice of root.
+-- Subject: Unit user-0.slice has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit user-0.slice has finished starting up.
+-- 
+-- The start-up result is done.
+Feb 25 01:20:01 ip-172-31-90-243.ec2.internal systemd[1]: Starting User Slice of root.
+-- Subject: Unit user-0.slice has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit user-0.slice has begun starting up.
+Feb 25 01:20:01 ip-172-31-90-243.ec2.internal systemd[1]: Started Session 19 of user root.
+-- Subject: Unit session-19.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-19.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Feb 25 01:20:01 ip-172-31-90-243.ec2.internal systemd[1]: Starting Session 19 of user root.
+-- Subject: Unit session-19.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-19.scope has begun starting up.
+Feb 25 01:20:01 ip-172-31-90-243.ec2.internal CROND[2712]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Feb 25 01:20:01 ip-172-31-90-243.ec2.internal systemd[1]: Removed slice User Slice of root.
+-- Subject: Unit user-0.slice has finished shutting down
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit user-0.slice has finished shutting down.
+Feb 25 01:20:01 ip-172-31-90-243.ec2.internal systemd[1]: Stopping User Slice of root.
+-- Subject: Unit user-0.slice has begun shutting down
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit user-0.slice has begun shutting down.
+Feb 25 01:20:13 ip-172-31-90-243.ec2.internal sudo[2720]: [1;39mec2-user : TTY=pts/0 ; PWD=/home/ec2-user ; USER=root ; COMMAND=/bin/yum install php-xml[0m
+Feb 25 01:20:13 ip-172-31-90-243.ec2.internal sudo[2720]: pam_unix(sudo:session): session opened for user root by ec2-user(uid=0)
+Feb 25 01:20:24 ip-172-31-90-243.ec2.internal yum[2721]: Installed: libxslt-1.1.28-6.amzn2.x86_64
+Feb 25 01:20:24 ip-172-31-90-243.ec2.internal yum[2721]: Installed: php-xml-7.2.34-1.amzn2.x86_64
+Feb 25 01:20:24 ip-172-31-90-243.ec2.internal systemd[1]: Stopping Dynamically Generate Message Of The Day...
+-- Subject: Unit update-motd.service has begun shutting down
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit update-motd.service has begun shutting down.
+Feb 25 01:20:24 ip-172-31-90-243.ec2.internal systemd[1]: Starting Dynamically Generate Message Of The Day...
+-- Subject: Unit update-motd.service has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit update-motd.service has begun starting up.
+Feb 25 01:20:24 ip-172-31-90-243.ec2.internal sudo[2720]: pam_unix(sudo:session): session closed for user root
+Feb 25 01:20:28 ip-172-31-90-243.ec2.internal sudo[2758]: [1;39mec2-user : TTY=pts/0 ; PWD=/home/ec2-user ; USER=root ; COMMAND=/bin/systemctl restart httpd[0m
+Feb 25 01:20:28 ip-172-31-90-243.ec2.internal sudo[2758]: pam_unix(sudo:session): session opened for user root by ec2-user(uid=0)
+Feb 25 01:20:28 ip-172-31-90-243.ec2.internal systemd[1]: Stopping The Apache HTTP Server...
+-- Subject: Unit httpd.service has begun shutting down
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit httpd.service has begun shutting down.
+Feb 25 01:20:29 ip-172-31-90-243.ec2.internal systemd[1]: Starting The Apache HTTP Server...
+-- Subject: Unit httpd.service has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit httpd.service has begun starting up.
+Feb 25 01:20:29 ip-172-31-90-243.ec2.internal systemd[1]: Started The Apache HTTP Server.
+-- Subject: Unit httpd.service has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit httpd.service has finished starting up.
+-- 
+-- The start-up result is done.
+Feb 25 01:20:29 ip-172-31-90-243.ec2.internal sudo[2758]: pam_unix(sudo:session): session closed for user root
+Feb 25 01:20:34 ip-172-31-90-243.ec2.internal systemd[1]: Started Dynamically Generate Message Of The Day.
+-- Subject: Unit update-motd.service has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit update-motd.service has finished starting up.
+-- 
+-- The start-up result is done.
+Feb 25 01:21:41 ip-172-31-90-243.ec2.internal dhclient[2845]: XMT: Solicit on eth0, interval 118180ms.
+Feb 25 01:23:22 ip-172-31-90-243.ec2.internal sudo[2838]: [1;39mec2-user : TTY=pts/0 ; PWD=/var/www/phpMyAdmin ; USER=root ; COMMAND=/bin/php composer-setup.php --install-dir=bin --filename=composer[0m
+Feb 25 01:23:22 ip-172-31-90-243.ec2.internal sudo[2838]: pam_unix(sudo:session): session opened for user root by ec2-user(uid=0)
+Feb 25 01:23:22 ip-172-31-90-243.ec2.internal sudo[2838]: pam_unix(sudo:session): session closed for user root
+Feb 25 01:23:40 ip-172-31-90-243.ec2.internal dhclient[2845]: XMT: Solicit on eth0, interval 108950ms.
+Feb 25 01:25:29 ip-172-31-90-243.ec2.internal dhclient[2845]: XMT: Solicit on eth0, interval 116470ms.
+Feb 25 01:25:41 ip-172-31-90-243.ec2.internal sudo[2850]: [1;39mec2-user : TTY=pts/0 ; PWD=/var/www/phpMyAdmin ; USER=root ; COMMAND=/bin/mv composer.phar /usr/local/bin/composer[0m
+Feb 25 01:25:41 ip-172-31-90-243.ec2.internal sudo[2850]: pam_unix(sudo:session): session opened for user root by ec2-user(uid=0)
+Feb 25 01:25:41 ip-172-31-90-243.ec2.internal sudo[2850]: pam_unix(sudo:session): session closed for user root
+Feb 25 01:27:25 ip-172-31-90-243.ec2.internal dhclient[2845]: XMT: Solicit on eth0, interval 122340ms.
+Feb 25 01:28:34 ip-172-31-90-243.ec2.internal dhclient[2724]: DHCPREQUEST on eth0 to 172.31.80.1 port 67 (xid=0x5af180db)
+Feb 25 01:28:34 ip-172-31-90-243.ec2.internal dhclient[2724]: DHCPACK from 172.31.80.1 (xid=0x5af180db)
+Feb 25 01:28:34 ip-172-31-90-243.ec2.internal dhclient[2724]: bound to 172.31.90.243 -- renewal in 1526 seconds.
+Feb 25 01:28:34 ip-172-31-90-243.ec2.internal ec2net[3300]: [1;39m[get_meta] Querying IMDS for meta-data/network/interfaces/macs/12:f3:f6:3a:89:0f/local-ipv4s[0m
+Feb 25 01:28:34 ip-172-31-90-243.ec2.internal ec2net[3301]: [1;39m[get_meta] Getting token for IMDSv2.[0m
+Feb 25 01:28:34 ip-172-31-90-243.ec2.internal ec2net[3304]: [1;39m[get_meta] Trying to get http://169.254.169.254/latest/meta-data/network/interfaces/macs/12:f3:f6:3a:89:0f/local-ipv4s[0m
+Feb 25 01:28:34 ip-172-31-90-243.ec2.internal ec2net[3307]: [1;39m[rewrite_aliases] Rewriting aliases of eth0[0m
+Feb 25 01:28:41 ip-172-31-90-243.ec2.internal sudo[3313]: [1;39mec2-user : TTY=pts/0 ; PWD=/var/www/phpMyAdmin ; USER=root ; COMMAND=/bin/nano /etc/httpd/conf/httpd.conf[0m
+Feb 25 01:28:41 ip-172-31-90-243.ec2.internal sudo[3313]: pam_unix(sudo:session): session opened for user root by ec2-user(uid=0)
+Feb 25 01:29:00 ip-172-31-90-243.ec2.internal sudo[3313]: pam_unix(sudo:session): session closed for user root
+Feb 25 01:29:11 ip-172-31-90-243.ec2.internal sudo[3316]: [1;39mec2-user : TTY=pts/0 ; PWD=/var/www/phpMyAdmin ; USER=root ; COMMAND=/bin/systemctl restart httpd[0m
+Feb 25 01:29:11 ip-172-31-90-243.ec2.internal sudo[3316]: pam_unix(sudo:session): session opened for user root by ec2-user(uid=0)
+Feb 25 01:29:11 ip-172-31-90-243.ec2.internal systemd[1]: Stopping The Apache HTTP Server...
+-- Subject: Unit httpd.service has begun shutting down
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit httpd.service has begun shutting down.
+Feb 25 01:29:12 ip-172-31-90-243.ec2.internal systemd[1]: Starting The Apache HTTP Server...
+-- Subject: Unit httpd.service has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit httpd.service has begun starting up.
+Feb 25 01:29:12 ip-172-31-90-243.ec2.internal systemd[1]: Started The Apache HTTP Server.
+-- Subject: Unit httpd.service has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit httpd.service has finished starting up.
+-- 
+-- The start-up result is done.
+Feb 25 01:29:12 ip-172-31-90-243.ec2.internal sudo[3316]: pam_unix(sudo:session): session closed for user root
+Feb 25 01:29:28 ip-172-31-90-243.ec2.internal dhclient[2845]: XMT: Solicit on eth0, interval 110610ms.
+Feb 25 01:30:01 ip-172-31-90-243.ec2.internal systemd[1]: Created slice User Slice of root.
+-- Subject: Unit user-0.slice has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit user-0.slice has finished starting up.
+-- 
+-- The start-up result is done.
+Feb 25 01:30:01 ip-172-31-90-243.ec2.internal systemd[1]: Starting User Slice of root.
+-- Subject: Unit user-0.slice has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit user-0.slice has begun starting up.
+Feb 25 01:30:01 ip-172-31-90-243.ec2.internal systemd[1]: Started Session 20 of user root.
+-- Subject: Unit session-20.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-20.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Feb 25 01:30:01 ip-172-31-90-243.ec2.internal systemd[1]: Starting Session 20 of user root.
+-- Subject: Unit session-20.scope has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-20.scope has begun starting up.
+Feb 25 01:30:01 ip-172-31-90-243.ec2.internal CROND[3377]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Feb 25 01:30:01 ip-172-31-90-243.ec2.internal systemd[1]: Removed slice User Slice of root.
+-- Subject: Unit user-0.slice has finished shutting down
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit user-0.slice has finished shutting down.
+Feb 25 01:30:01 ip-172-31-90-243.ec2.internal systemd[1]: Stopping User Slice of root.
+-- Subject: Unit user-0.slice has begun shutting down
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit user-0.slice has begun shutting down.
+Feb 25 01:30:23 ip-172-31-90-243.ec2.internal sudo[3425]: [1;39mec2-user : TTY=pts/0 ; PWD=/var/www/phpMyAdmin ; USER=root ; COMMAND=/bin/nano /etc/httpd/conf/httpd.conf[0m
+Feb 25 01:30:23 ip-172-31-90-243.ec2.internal sudo[3425]: pam_unix(sudo:session): session opened for user root by ec2-user(uid=0)
+Feb 25 01:30:35 ip-172-31-90-243.ec2.internal sudo[3425]: pam_unix(sudo:session): session closed for user root
+Feb 25 01:30:38 ip-172-31-90-243.ec2.internal sudo[3427]: [1;39mec2-user : TTY=pts/0 ; PWD=/var/www/phpMyAdmin ; USER=root ; COMMAND=/bin/systemctl restart httpd[0m
+Feb 25 01:30:38 ip-172-31-90-243.ec2.internal sudo[3427]: pam_unix(sudo:session): session opened for user root by ec2-user(uid=0)
+Feb 25 01:30:38 ip-172-31-90-243.ec2.internal systemd[1]: Stopping The Apache HTTP Server...
+-- Subject: Unit httpd.service has begun shutting down
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit httpd.service has begun shutting down.
+Feb 25 01:30:39 ip-172-31-90-243.ec2.internal systemd[1]: Starting The Apache HTTP Server...
+-- Subject: Unit httpd.service has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit httpd.service has begun starting up.
+Feb 25 01:30:39 ip-172-31-90-243.ec2.internal systemd[1]: Started The Apache HTTP Server.
+-- Subject: Unit httpd.service has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit httpd.service has finished starting up.
+-- 
+-- The start-up result is done.
+Feb 25 01:30:39 ip-172-31-90-243.ec2.internal sudo[3427]: pam_unix(sudo:session): session closed for user root
+Feb 25 01:31:18 ip-172-31-90-243.ec2.internal dhclient[2845]: XMT: Solicit on eth0, interval 116260ms.
+Feb 25 01:33:15 ip-172-31-90-243.ec2.internal dhclient[2845]: XMT: Solicit on eth0, interval 129970ms.
+Feb 25 01:35:05 ip-172-31-90-243.ec2.internal sudo[3528]: [1;39mec2-user : TTY=pts/0 ; PWD=/var/www/phpMyAdmin ; USER=root ; COMMAND=/bin/nano /etc/httpd/conf.d/ssl.conf[0m
+Feb 25 01:35:05 ip-172-31-90-243.ec2.internal sudo[3528]: pam_unix(sudo:session): session opened for user root by ec2-user(uid=0)
+Feb 25 01:35:25 ip-172-31-90-243.ec2.internal dhclient[2845]: XMT: Solicit on eth0, interval 110290ms.
+Feb 25 01:35:58 ip-172-31-90-243.ec2.internal sudo[3528]: pam_unix(sudo:session): session closed for user root
+Feb 25 01:36:00 ip-172-31-90-243.ec2.internal sudo[3531]: [1;39mec2-user : TTY=pts/0 ; PWD=/var/www/phpMyAdmin ; USER=root ; COMMAND=/bin/systemctl restart httpd[0m
+Feb 25 01:36:00 ip-172-31-90-243.ec2.internal sudo[3531]: pam_unix(sudo:session): session opened for user root by ec2-user(uid=0)
+Feb 25 01:36:00 ip-172-31-90-243.ec2.internal systemd[1]: Stopping The Apache HTTP Server...
+-- Subject: Unit httpd.service has begun shutting down
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit httpd.service has begun shutting down.
+Feb 25 01:36:01 ip-172-31-90-243.ec2.internal systemd[1]: Starting The Apache HTTP Server...
+-- Subject: Unit httpd.service has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit httpd.service has begun starting up.
+Feb 25 01:36:01 ip-172-31-90-243.ec2.internal httpd[3538]: AH00526: Syntax error on line 6 of /etc/httpd/conf.d/ssl.conf:
+Feb 25 01:36:01 ip-172-31-90-243.ec2.internal httpd[3538]: Cannot define multiple Listeners on the same IP:port
+Feb 25 01:36:01 ip-172-31-90-243.ec2.internal systemd[1]: [1;39mhttpd.service: main process exited, code=exited, status=1/FAILURE[0m
+Feb 25 01:36:01 ip-172-31-90-243.ec2.internal sudo[3531]: pam_unix(sudo:session): session closed for user root
+Feb 25 01:36:01 ip-172-31-90-243.ec2.internal systemd[1]: [1;31mFailed to start The Apache HTTP Server.[0m
+-- Subject: Unit httpd.service has failed
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit httpd.service has failed.
+-- 
+-- The result is failed.
+Feb 25 01:36:01 ip-172-31-90-243.ec2.internal systemd[1]: [1;39mUnit httpd.service entered failed state.[0m
+Feb 25 01:36:01 ip-172-31-90-243.ec2.internal systemd[1]: [1;39mhttpd.service failed.[0m
