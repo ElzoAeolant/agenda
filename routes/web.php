@@ -24,6 +24,7 @@ Route::group(['middleware' => 'auth'], function () {
     Route::get('/downloadPDF','HomeController@downloadPDF');
 
     Route::get('export', 'HomeController@export')->name('export');
+    Route::get('exportAttendance', 'HomeController@exportAttendance')->name('exportAttendance');
     Route::get('importExportView', 'HomeController@importExportView');
     Route::post('import', 'HomeController@import')->name('import');
 

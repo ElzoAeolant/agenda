@@ -22,6 +22,8 @@ use Attendance;
 use Carbon\Carbon;
 
 use App\Exports\UsersExport;
+use App\Exports\AttendanceExport;
+
 use App\Imports\PlatformDataImport;
 use Maatwebsite\Excel\Facades\Excel;
 
@@ -387,6 +389,14 @@ class HomeController extends Controller
     public function export()
     {
         return Excel::download(new UsersExport, 'users.xlsx');
+    }
+
+    /**
+     * @return \Illuminate\Support\Collection
+     */
+    public function exportAttendance()
+    {
+        return Excel::download(new AttendanceExport(52), 'attendance.xlsx');
     }
 
     /**
