@@ -20,7 +20,7 @@ class AttendanceExport implements FromCollection, WithHeadings
     }
     public function headings(): array
     {
-        return ["Motivo", "Alumno", "Creado", "Actualizado"];
+        return ["Motivo", "Alumno", "Creado", "Referencia"];
     }
     /**
     * @return \Illuminate\Support\Collection
