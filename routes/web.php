@@ -24,7 +24,6 @@ Route::group(['middleware' => 'auth'], function () {
     Route::get('/downloadPDF','HomeController@downloadPDF');
 
     Route::get('export', 'HomeController@export')->name('export');
-    Route::get('exportAttendance', 'HomeController@exportAttendance')->name('exportAttendance');
     Route::get('importExportView', 'HomeController@importExportView');
     Route::post('import', 'HomeController@import')->name('import');
 
@@ -56,7 +55,9 @@ Route::group(['middleware' => 'auth'], function () {
     Route::put('delays/{statement}', 'DelayController@update')->name('delays.update')->middleware('permission:delays.edit');
     Route::get('delays/{statement}', 'DelayController@show')->name('delays.show')->middleware('permission:delays.show');
     Route::delete('delays/{statement}', 'DelayController@destroy')->name('delays.destroy')->middleware('permission:delays.destroy');
-
+    Route::get('delays/download', 'DelayController@download')->name('delays.download')->middleware(['permission:delays.index|delays.show']);
+    Route::get('delays/export', 'DelayController@export')->name('delays.export')->middleware(['permission:delays.index|delays.show']);
+    
 
     Route::get('attendance/register', 'AttendanceController@register')->name('attendance.register')->middleware('permission:attendance.create');
     Route::post('attendance/store', 'AttendanceController@store')->name('attendance.store')->middleware('permission:attendance.create');

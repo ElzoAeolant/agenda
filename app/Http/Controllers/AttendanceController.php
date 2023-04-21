@@ -3,11 +3,12 @@
 namespace App\Http\Controllers;
 
 use App\Attendance;
+use App\Exports\AttendanceExport;
 use App\Classroom;
 use App\User;
 use App\Statement;
 use Illuminate\Http\Request;
-
+use Maatwebsite\Excel\Facades\Excel;
 use Illuminate\Support\Facades\Validator;
 use Response;
 use DB;
@@ -851,4 +852,59 @@ class AttendanceController extends Controller
         return redirect()->back()
                         ->withStatus('success-'.trans('Los comunicados se enviaron correctamente.'));
     }
+    /**
+     * @return \Illuminate\Support\Collection
+     */
+    public function download(Request $request)
+    {
+        $this->validate($request, [
+            'cl_id' => 'required',
+            'd1' => 'required',
+            'd2' => 'required'
+        ]);
+    
+        $input = $request->all();
+        return Excel::download(new AttendanceExport($input['cl_id'],$input['d1'].' 00:00:00',$input['d2'].' 23:59:59'), 'attendance.xlsx');
+    }
+    /**
+     * Show the form for creating a new resource.
+     *
+     * @return \Illuminate\Http\Response
+     */
+    public function export()
+    {
+        if (auth()->user()->hasAnyRole(['Profesor tutor', 'Profesor por horas','Capturar Asistencia Auxiliares']) and !auth()->user()->hasAnyRole(['Convivencia escolar','Capturar Asistencia'])) {
+            $usersdb = DB::table('user_has_classroom')
+                ->where('user_id', auth()->user()->id)
+                ->pluck('classroom_id');
+
+            if(auth()->user()->id == 6){
+                $classrooms = Classroom::whereIn('id',$usersdb)
+                ->where([
+                    ['scholarperiod_id','=', 1],
+                    //['shift','<>','TEST']
+                    ])
+                ->orderBy('level', 'asc')
+                ->get();    
+            }else{
+                $classrooms = Classroom::whereIn('id',$usersdb)
+                ->where([
+                    ['scholarperiod_id','=', 1],
+                    ['shift','<>','TEST']
+                    ])
+                ->orderBy('level', 'asc')
+                ->get();
+            }
+        } else {
+            $classrooms = Classroom::where([
+                ['scholarperiod_id', '=', 1],
+                ['shift','<>','TEST']
+            ])
+                ->orderBy('level', 'asc')
+                ->get();
+        }
+
+        return view('attendance.export', compact('classrooms'));
+    }
+
 }

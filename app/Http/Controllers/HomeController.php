@@ -22,7 +22,7 @@ use Attendance;
 use Carbon\Carbon;
 
 use App\Exports\UsersExport;
-use App\Exports\AttendanceExport;
+
 
 use App\Imports\PlatformDataImport;
 use Maatwebsite\Excel\Facades\Excel;
@@ -391,20 +391,7 @@ class HomeController extends Controller
         return Excel::download(new UsersExport, 'users.xlsx');
     }
 
-    /**
-     * @return \Illuminate\Support\Collection
-     */
-    public function exportAttendance(Request $request)
-    {
-        $this->validate($request, [
-            'cl_id' => 'required',
-            'd1' => 'required',
-            'd2' => 'required'
-        ]);
     
-        $input = $request->all();
-        return Excel::download(new AttendanceExport($input['cl_id'],$input['d1'].' 00:00:00',$input['d2'].' 23:59:59'), 'attendance.xlsx');
-    }
 
     /**
      * @return \Illuminate\Support\Collection
