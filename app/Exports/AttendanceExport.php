@@ -34,7 +34,6 @@ class AttendanceExport implements FromCollection, WithHeadings
                     ->whereBetween('created_at',[date($this->dateFirst),date($this->dateSecond)])
                     ->orderBy('created_at', 'ASC')
                     ->get(['details','to','created_at','updated_at']);
-        dd($statements);
         return $statements;
     }
 }
