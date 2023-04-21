@@ -394,9 +394,16 @@ class HomeController extends Controller
     /**
      * @return \Illuminate\Support\Collection
      */
-    public function exportAttendance()
+    public function exportAttendance(Request $request)
     {
-        return Excel::download(new AttendanceExport(52), 'attendance.xlsx');
+        $this->validate($request, [
+            'cl_id' => 'required',
+            'd1' => 'required',
+            'd2' => 'required'
+        ]);
+    
+        $input = $request->all();
+        return Excel::download(new AttendanceExport($input['cl_id'],$input['d1'].' 00:00:00',$input['d2'].' 23:59:59'), 'attendance.xlsx');
     }
 
     /**
