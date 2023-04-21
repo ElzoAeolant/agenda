@@ -88,7 +88,7 @@
 <script>
     $(document).ready(function() {
         @can('attendance.edit')
-        var edit = 'Editar';
+        var edit = 'JUST';
         @else
         var edit = '';
         @endcan
