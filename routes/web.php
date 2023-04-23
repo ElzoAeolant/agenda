@@ -55,9 +55,7 @@ Route::group(['middleware' => 'auth'], function () {
     Route::put('delays/{statement}', 'DelayController@update')->name('delays.update')->middleware('permission:delays.edit');
     Route::get('delays/{statement}', 'DelayController@show')->name('delays.show')->middleware('permission:delays.show');
     Route::delete('delays/{statement}', 'DelayController@destroy')->name('delays.destroy')->middleware('permission:delays.destroy');
-    Route::get('delays/download', 'AttendanceController@download')->name('delays.download')->middleware(['permission:delays.index|delays.show']);
-    Route::get('delays/export', 'AttendanceController@export')->name('delays.export')->middleware(['permission:delays.index|delays.show']);
-    
+      
 
     Route::get('attendance/register', 'AttendanceController@register')->name('attendance.register')->middleware('permission:attendance.create');
     Route::post('attendance/store', 'AttendanceController@store')->name('attendance.store')->middleware('permission:attendance.create');
@@ -66,6 +64,8 @@ Route::group(['middleware' => 'auth'], function () {
     Route::post('attendance/emit', 'AttendanceController@emit')->name('attendance.emit')->middleware('permission:attendance.send');
     Route::get('attendance/scan', 'AttendanceController@showscan')->name('attendance.scan')->middleware('permission:attendance.scan');
     Route::get('attendance/myqr', 'AttendanceController@getQRCode')->name('attendance.myqr');
+    Route::get('attendance/download', 'AttendanceController@download')->name('attendance.download')->middleware(['permission:attendance.index']);
+    Route::get('attendance/export', 'AttendanceController@export')->name('attendance.export')->middleware(['permission:attendance.index']);
     
     // Route::post('attendance/process', 'AttendanceController@registerscan')->name('attendance.process')->middleware('permission:attendance.scan');
     // Route::get('attendance', 'AttendanceController@index')->name('attendance.index')->middleware('permission:attendance.index');
