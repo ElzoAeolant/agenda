@@ -858,7 +858,7 @@ class AttendanceController extends Controller
     public function download(Request $request)
     {
         $this->validate($request, [
-            'cl_id' => 'required',
+            'classroom_id' => 'required',
             'd1' => 'required',
             'd2' => 'required'
         ]);

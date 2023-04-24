@@ -21,7 +21,7 @@
                                     <label class="col-sm-2 col-form-label">{{ __('Seleccionar fecha inicial:') }}</label>
                                     <div class="col-sm-6">
                                         <div class="form-group{{ $errors->has('name') ? ' has-danger' : '' }}">
-                                            <input class="form-control" id="d1" type="date" value="">
+                                            <input class="form-control" name="d1" id="d1" type="date" value="">
                                             @if ($errors->has('classroom'))
                                                 <span id="name-error" class="error text-danger"
                                                     for="input-name">{{ $errors->first('classroom') }}</span>
@@ -33,7 +33,7 @@
                                     <label class="col-sm-2 col-form-label">{{ __('Seleccionar fecha final:') }}</label>
                                     <div class="col-sm-6">
                                         <div class="form-group{{ $errors->has('name') ? ' has-danger' : '' }}">
-                                            <input class="form-control" id="d2" type="date" value="">
+                                            <input name="d2" class="form-control" id="d2" type="date" value="">
                                             @if ($errors->has('classroom'))
                                                 <span id="name-error" class="error text-danger"
                                                     for="input-name">{{ $errors->first('classroom') }}</span>
