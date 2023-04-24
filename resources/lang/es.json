@@ -78,5 +78,6 @@
     "Send Family Schools":"Enviar Asistencia",
     "Scan Family Schools":"Escanear asistencia",
     "Delays" : "Tardanzas",
-    "Here you can manage delays" :  "Aquí podrá administrar las tardanzas."
+    "Here you can manage delays" :  "Aquí podrá administrar las tardanzas.",
+    "Export Attendance" : "Descargar Excel"
 }
