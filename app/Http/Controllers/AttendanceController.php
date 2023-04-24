@@ -858,13 +858,13 @@ class AttendanceController extends Controller
     public function download(Request $request)
     {
         $this->validate($request, [
-            'classroom_id' => 'required',
+            'classroom' => 'required',
             'd1' => 'required',
             'd2' => 'required'
         ]);
-    
+        
         $input = $request->all();
-        return Excel::download(new AttendanceExport($input['cl_id'],$input['d1'].' 00:00:00',$input['d2'].' 23:59:59'), 'attendance.xlsx');
+        return Excel::download(new AttendanceExport($input['classroom'],$input['d1'].' 00:00:00',$input['d2'].' 23:59:59'), 'attendance.xlsx');
     }
     /**
      * Show the form for creating a new resource.

@@ -157,7 +157,7 @@
             <b class="caret"></b>
           </p>
         </a>
-        <div class="collapse{{ ($activePage == 'attendance.create' or $activePage == 'attendance.send' or $activePage == 'attendance.delays' or $activePage == 'attendance.scan' ) ? ' show' : '' }}" id="attendance-management">
+        <div class="collapse{{ ($activePage == 'attendance.create' or $activePage == 'attendance.export' or $activePage == 'attendance.send' or $activePage == 'attendance.delays' or $activePage == 'attendance.scan' ) ? ' show' : '' }}" id="attendance-management">
           <ul class="nav">
           
             @can('attendance.scan')
@@ -180,6 +180,12 @@
               <a class="nav-link" href="{{ route('attendance.delays') }}">
                 <span class="sidebar-mini"> DE </span>
                 <span class="sidebar-normal"> {{ __('Ver Registro') }} </span>
+              </a>
+            </li>
+            <li class="nav-item{{ $activePage == 'attendance.export' ? ' active' : '' }}">
+              <a class="nav-link" href="{{ route('attendance.export') }}">
+                <span class="sidebar-mini"> DE </span>
+                <span class="sidebar-normal"> {{ __('Exportar Registro') }} </span>
               </a>
             </li>
             @can('attendance.send')

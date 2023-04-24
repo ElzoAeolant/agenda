@@ -1,4 +1,4 @@
-@extends('layouts.app', ['activePage' => 'attendance.create', 'titlePage' => __('Attendance Management')])
+@extends('layouts.app', ['activePage' => 'attendance.export', 'titlePage' => __('Attendance Management')])
 @push('head_scripts')
     <link rel="stylesheet" href="{{ asset('assets/bootstrap-select/css/bootstrap-select.min.css') }}">
 @endpush
@@ -22,9 +22,9 @@
                                     <div class="col-sm-6">
                                         <div class="form-group{{ $errors->has('name') ? ' has-danger' : '' }}">
                                             <input class="form-control" name="d1" id="d1" type="date" value="">
-                                            @if ($errors->has('classroom'))
+                                            @if ($errors->has('d1'))
                                                 <span id="name-error" class="error text-danger"
-                                                    for="input-name">{{ $errors->first('classroom') }}</span>
+                                                    for="input-name">{{ $errors->first('d1') }}</span>
                                             @endif
                                         </div>
                                     </div>
@@ -34,9 +34,9 @@
                                     <div class="col-sm-6">
                                         <div class="form-group{{ $errors->has('name') ? ' has-danger' : '' }}">
                                             <input name="d2" class="form-control" id="d2" type="date" value="">
-                                            @if ($errors->has('classroom'))
+                                            @if ($errors->has('d2'))
                                                 <span id="name-error" class="error text-danger"
-                                                    for="input-name">{{ $errors->first('classroom') }}</span>
+                                                    for="input-name">{{ $errors->first('d2') }}</span>
                                             @endif
                                         </div>
                                     </div>
